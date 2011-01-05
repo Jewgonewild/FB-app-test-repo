@@ -10,5 +10,9 @@ Important: Please use an established framework (CakePHP, CodeIgniter, Rails, Dja
 
 3. On hover show some basic stats about the user (make sure the tooltip is built with jquery)
 
+4. Once this is all ready, deploy it to an AWS instance.
+
 Don't spend any time on styling. Ask me for a pull request and then start pushing early and often.
+
+
 
